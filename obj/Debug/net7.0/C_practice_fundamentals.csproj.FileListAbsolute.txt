@@ -1,0 +1,14 @@
+C:\Users\mpacr\Desktop\C_practice_fundamentals\bin\Debug\net7.0\C_practice_fundamentals.exe
+C:\Users\mpacr\Desktop\C_practice_fundamentals\bin\Debug\net7.0\C_practice_fundamentals.deps.json
+C:\Users\mpacr\Desktop\C_practice_fundamentals\bin\Debug\net7.0\C_practice_fundamentals.runtimeconfig.json
+C:\Users\mpacr\Desktop\C_practice_fundamentals\bin\Debug\net7.0\C_practice_fundamentals.dll
+C:\Users\mpacr\Desktop\C_practice_fundamentals\bin\Debug\net7.0\C_practice_fundamentals.pdb
+C:\Users\mpacr\Desktop\C_practice_fundamentals\obj\Debug\net7.0\C_practice_fundamentals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mpacr\Desktop\C_practice_fundamentals\obj\Debug\net7.0\C_practice_fundamentals.AssemblyInfoInputs.cache
+C:\Users\mpacr\Desktop\C_practice_fundamentals\obj\Debug\net7.0\C_practice_fundamentals.AssemblyInfo.cs
+C:\Users\mpacr\Desktop\C_practice_fundamentals\obj\Debug\net7.0\C_practice_fundamentals.csproj.CoreCompileInputs.cache
+C:\Users\mpacr\Desktop\C_practice_fundamentals\obj\Debug\net7.0\C_practice_fundamentals.dll
+C:\Users\mpacr\Desktop\C_practice_fundamentals\obj\Debug\net7.0\refint\C_practice_fundamentals.dll
+C:\Users\mpacr\Desktop\C_practice_fundamentals\obj\Debug\net7.0\C_practice_fundamentals.pdb
+C:\Users\mpacr\Desktop\C_practice_fundamentals\obj\Debug\net7.0\C_practice_fundamentals.genruntimeconfig.cache
+C:\Users\mpacr\Desktop\C_practice_fundamentals\obj\Debug\net7.0\ref\C_practice_fundamentals.dll
